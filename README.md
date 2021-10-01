@@ -1,2 +1,3 @@
 # py6502
- A 6502 assembler, disassembler and emulator in Python
+
+This emulator was written originally by Steve Palmer.
