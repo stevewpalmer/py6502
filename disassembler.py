@@ -1,6 +1,6 @@
 # Simple 6502 Microprocessor Simulator in Python
 #
-# Copyright 2012 Steve Palmer, steve@stevewpalmer.com
+# Copyright 2012 Steve Palmer, steve@stevewpalmer.uk
 #
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
